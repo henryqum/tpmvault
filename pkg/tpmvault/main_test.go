@@ -1,4 +1,4 @@
-package tpmvault
+package main
 
 import (
 	"context"
