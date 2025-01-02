@@ -1,4 +1,4 @@
-# TPM Vault
+# TPM ❤️ Vault
 
 TPM Vault is a Go package that provides TPM-based authentication and certificate management for HashiCorp Vault. It handles TPM key generation, certificate signing requests (CSR), and mutual TLS authentication with Vault.
 
